@@ -1,4 +1,4 @@
-[![HitCount](http://hits.dwyl.com/xybervenom/Jupyter_NB_Collection.svg)](http://hits.dwyl.com/xybervenom/Jupyter_NB_Collection.svg)
+[![HitCount](http://hits.dwyl.com/xybervenom/DS_ML_Collection.svg)](http://hits.dwyl.com/xybervenom/DS_ML_Collection.svg)
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 
 # <div align="center">🖥️Hacktober 2020💻</div>
@@ -15,7 +15,7 @@
   ![](https://i.ibb.co/0jHpjBP/hacktoberfest.jpg)
 <br></br>
 ##
-  ### 3. Then go to https://github.com/xybervenom/Jupyter_NB_Collection and click on *"star"*🌟 and *"fork"*🍴.
+  ### 3. Then go to https://github.com/xybervenom/DS_ML_Collection and click on *"star"*🌟 and *"fork"*🍴.
   ![](https://i.ibb.co/R4p91T9/fork1.jpg)
 <br></br>
 ##
